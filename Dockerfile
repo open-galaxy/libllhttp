@@ -1,6 +1,5 @@
 FROM --platform=linux/amd64 debian:buster-slim
 
-WORKDIR /build
 ENV RELEASE_VERSION 6.0.6
 
 WORKDIR /build
